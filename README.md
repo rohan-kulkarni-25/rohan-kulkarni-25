@@ -1,11 +1,13 @@
  <h2 align="center">Hey, Rohan Here !!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-<h3>-Currently First Year Student at Sinhagad Institute of Technology & Science,Pune<br>-Computer Science Stream<br>-Open Source Enthusiast</h3>
+<h3>:school: Currently First Year Student at Sinhagad Institute of Technology & Science,Pune<br>:computer: Computer Science Stream<br>:smile: Open Source Enthusiast</h3>
+
+
 
 [![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohank2502&show_icons=true)](https://github.com/rohank2502/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohank2502&layout=compact)](https://github.com/rohank2502/github-readme-stats)
 
-<h2 align="center">Connect Me !!</h2> 
+<h2 align="center">Connect Me !! 🤝</h2> 
 
 <p align="center">
 <a href="https://github.com/rohank2502" target="_blank">
@@ -22,3 +24,10 @@
 <a href="https://www.facebook.com/rohan.kulkarni.2520/" target="_blank">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
 </p> 
+ 
+<h2 align="center">Git-Hub Streak !! :fire:</h2> 
+<p  align="center">
+<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohank2502&)" alt="Rohan Kulkarni" />
+</p>
+<h2 align="center">Visitor's Count :heart:</h2> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://profile-counter.glitch.me/rohank2502/count.svg" alt="Visitor Count" />
