@@ -29,5 +29,11 @@
 <p  align="center">
 <img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohank2502&)" alt="Rohan Kulkarni" />
 </p>
-<h2 align="center">Visitor's Count :heart:</h2> 
+
+
+[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohank2502&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)](https://github.com/rohank2502/github-readme-activity-graph)
+
+
+<h2 align="center">Visitor's Count :heart:</h2>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://profile-counter.glitch.me/rohank2502/count.svg" alt="Visitor Count" />
