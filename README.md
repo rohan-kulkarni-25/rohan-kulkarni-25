@@ -8,8 +8,8 @@
 
 
 
-[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohank2502&show_icons=true)](https://github.com/rohank2502/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohank2502&layout=compact)](https://github.com/rohank2502/github-readme-stats)
+[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-kulkarni-25&show_icons=true)](https://github.com/rohan-kulkarni-25/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kulkarni-25&layout=compact)](https://github.com/rohan-kulkarni-25/github-readme-stats)
 
 <h2 align="center">Tech-Stacks 👨‍💻</h2>
 <span>
@@ -31,9 +31,7 @@
 <h2 align="center">Connect Me !! 🤝</h2> 
 
 <p align="center">
-<a href="https://github.com/rohank2502" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/rohan-k-2502/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -48,10 +46,10 @@
  
 <h2 align="center">Git-Hub Streak !! :fire:</h2> 
 <p  align="center">
-<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohank2502&)" alt="Rohan Kulkarni" />
+<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-kulkarni-25&)" alt="Rohan Kulkarni" />
 </p>
 
 
-[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohank2502&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)](https://github.com/rohank2502/github-readme-activity-graph)
+[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohan-kulkarni-25&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)](https://github.com/rohan-kulkarni-25/github-readme-activity-graph)
 
 
