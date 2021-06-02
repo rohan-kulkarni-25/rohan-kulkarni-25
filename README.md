@@ -1,4 +1,4 @@
- <img src="https://github.com/rohank2502/rohank2502/blob/fb0f893d23839dfcdd94d67d4797e5b7c197e671/Clean%20Work%20Place%20LinkedIn%20Banner.png">
+ <img src="https://github.com/rohan-kulkarni-25/rohan-kulkarni-25/blob/cd5c30a6181e361416caf112d3e6bd02dae5d8c6/Collaboration%20First%20Code%20Second.png">
  <h2 align="center">Hey, Rohan Here !!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 - :school: Currently First Year Student at Sinhagad Institute of Technology & Science, Pune
