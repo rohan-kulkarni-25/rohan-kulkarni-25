@@ -31,7 +31,9 @@
 <h2 align="center">Connect Me !! 🤝</h2> 
 
 <p align="center">
-
+<a href="https://www.youtube.com/channel/UC9lHcqq-TOWCW_ee6fVwhrg" target="_blank">
+ <img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+ </a>
 <a href="https://www.linkedin.com/in/rohan-k-2502/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
