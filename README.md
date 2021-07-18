@@ -19,15 +19,16 @@
 
 <h1 align="center">Projects</h1>
 
-<h3 align="center">
 
-| Project Name                                                                                       | Description                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://github.com/rohan-kulkarni-25/front-end-templates">Front End Templates </a>        | In this repository I will be adding all my front end project which will include implementation of Html,css & Javascript                                        |
-| <a href="https://github.com/rohan-kulkarni-25/LinkLog">LinkLog</a>                                 | This is my own static website where I link all the links I need to share can check preview <a href="https://rohankulkarni.tech">https://rohankulkarni.tech</a> |
-| <a href="https://github.com/rohan-kulkarni-25/Tribute-To-Contributors">Tribute-To-Contributors</a> | In this repository with the help of Github api I have created one html file give tribute to your project contributors                                          |     | <a href="https://github.com/rohan-kulkarni-25/personal-portfolio">Personal Portfolio</a> | This is my personal personal-portfolio website. Have a look <a href="https://rohankulkarni.code">https://rohankulkarni.code</a> |
 
-</h3>
+
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [Front End Templates](https://github.com/rohan-kulkarni-25/front-end-templates)     | In this repository I will be adding all my front end project which will include implementation of Html,css & Javascript       | 
+| [LinkLog](https://github.com/rohan-kulkarni-25/LinkLog)   | This is my own static website where I link all the links I need to share can check preview [https://rohankulkarni.tech](https://rohankulkarni.tech)        | 
+| [Tribute-To-Contributors](https://github.com/rohan-kulkarni-25/Tribute-To-Contributors) | In this repository with the help of Github api I have created one html file give tribute to your project contributors |
+| [Personal Portfolio](https://github.com/rohan-kulkarni-25/personal-portfolio) | This is my personal personal-portfolio website. Have a look [https://rohankulkarni.code](https://rohankulkarni.codes) |
+
 <hr>
 <h1 align="center">Communication - the human connection - is the key to personal and success !</h1>
 
