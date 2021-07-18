@@ -48,4 +48,8 @@
 </div>
 
 <h1 align="center">Github Stats</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=rohan-kulkarni-25&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kulkarni-25&layout=compact"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-kulkarni-25&)"><img src="https://activity-graph.herokuapp.com/graph?username=rohan-kulkarni-25&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
+ <div align="center" >
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=rohan-kulkarni-25&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kulkarni-25&layout=compact">
+</div> 
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-kulkarni-25&)"><img src="https://activity-graph.herokuapp.com/graph?username=rohan-kulkarni-25&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
