@@ -1,10 +1,10 @@
 <img src="topbanner.gif">
 
-### A bit about Myself, I am Rohan Kulkarni pursuing a Computer Science Degree from Sinhgad Institue of Technology & Science Pune. As of now, I am focused on web development but still, wish to explore many fields. ⚡
+A bit about Myself, I am <b>Rohan Kulkarni</b> pursuing a <b>Computer Science Degree</b> from Sinhgad Institue of Technology & Science Pune. As of now, I am focused on <b>web development</b> but still, wish to explore many fields. ⚡
 
 <h1 align="center">Tech-Stack</h1>
 
-### I am learning webdevelopment and having knowledge of HTML,CSS & Javascript. Beside that I am also learning Java and also has basic knowledge of C++. I also know how to use Vs-Code for doing contribution on github and also learning git.
+I am learning webdevelopment and having knowledge of HTML,CSS & Javascript. Beside that I am also learning Java and also has basic knowledge of C++. I also know how to use Vs-Code for doing contribution on github and also learning git.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -15,7 +15,7 @@
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
 
-### I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
+I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
 
 <h1 align="center">Projects</h1>
 
@@ -34,7 +34,7 @@
 
 <h1 align="center">Let's Get Connected</h1>
 
-### Recently I have started A Youtube Channel & telegram channel in which will try to share my knowledge and about opportunities I know. I am active on LinkedIN and Twitter as well. You can reach out to me I will be happy to help</p>
+Recently I have started A Youtube Channel & telegram channel in which will try to share my knowledge and about opportunities I know. I am active on LinkedIN and Twitter as well. You can reach out to me I will be happy to help</p>
 
 <div align="center">
 
