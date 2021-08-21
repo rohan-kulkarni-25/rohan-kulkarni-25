@@ -24,7 +24,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [Front End Templates](https://github.com/rohan-kulkarni-25/front-end-templates)     | In this repository I will be adding all my front end project which will include implementation of Html,css & Javascript       | 
+| [Front End Projects](https://github.com/rohan-kulkarni-25/front-end-templates)     | In this repository I will be adding all my front end project which will include implementation of Html,css & Javascript       | 
 | [LinkLog](https://github.com/rohan-kulkarni-25/LinkLog)   | This is my own static website where I link all the links I need to share can check preview [https://rohankulkarni.tech](https://rohankulkarni.tech)        | 
 | [Tribute-To-Contributors](https://github.com/rohan-kulkarni-25/Tribute-To-Contributors) | In this repository with the help of Github api I have created one html file give tribute to your project contributors |
 | [Personal Portfolio](https://github.com/rohan-kulkarni-25/personal-portfolio) | This is my personal personal-portfolio website. Have a look [https://rohankulkarni.code](https://rohankulkarni.codes) |
