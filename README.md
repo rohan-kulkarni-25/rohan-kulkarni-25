@@ -30,7 +30,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | [Personal Portfolio](https://github.com/rohan-kulkarni-25/personal-portfolio) | This is my personal personal-portfolio website. Have a look [https://rohankulkarni.code](https://rohankulkarni.codes) |
 
 <hr>
-<h1 align="center">Communication - the human connection - is the key to personal and success !</h1>
+<h2 align="center">Communication - the human connection - is the key to personal and success !</h2>
 
 <h1 align="center">Let's Get Connected</h1>
 
