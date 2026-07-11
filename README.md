@@ -1,15 +1,7 @@
-### 0xrk
+# rohan kulkarni
 
-ai person learning crypto by building.
+running my company (and my life) on ai agents. sharing what works, what breaks, and what it costs
 
-exploring the ai × crypto intersection — tools, teardowns, and figuring things out in public.
+**now:** building 9th house, a company where the desks are ai agents, and getheadcount ( outbound / lead-gen )
 
-**now:**
-- digging into how ai agents interact with crypto infra
-- building small tools to automate parts of my own crypto workflows
-- documenting what i learn as i go
-
-**find me:**
-- [x/twitter](https://x.com/rohan_2502)
-- [site](https://0xrk-landing.pages.dev)
-- rohank2502@gmail.com
+**find me:** [rohankulkarni.co](https://rohankulkarni.co) · [x/twitter](https://x.com/rohan_2502) · [linkedin](https://www.linkedin.com/in/rohan-k-2502/) · rohank2502@gmail.com
