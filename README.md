@@ -2,7 +2,7 @@
 
 running my company (and my life) on ai agents. sharing what works, what breaks, and what it costs
 
-**now:** building 9th house in bengaluru, and taking contract work: wordpress plugins, api and llm integrations, cloudflare workers
+**now:** building agent infrastructure in bengaluru: parallel coding agents, approval gates, spend caps checked before anything runs. taking contract work
 
 **before:** founding engineer at bhindi ai ( an agent platform ) · lead engineer at upsurge labs
 
